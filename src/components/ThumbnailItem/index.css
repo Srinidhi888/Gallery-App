@@ -1,0 +1,11 @@
+/* Write your code here. */
+.item {
+  padding-right: 20px;
+}
+.act {
+  opacity: 0.5;
+}
+.btn {
+  border-width: 0px;
+  background-color: white;
+}
